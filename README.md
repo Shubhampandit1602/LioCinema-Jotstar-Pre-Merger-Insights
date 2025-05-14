@@ -36,22 +36,62 @@ The project utilizes three core tables:
 
 ---
 
-### 🔹 Revenue & Reach: Jotstar
+### 🎯 Audience & Market Penetration: Jotstar
 
-- **Plan Breakdown:**  
-  - Basic (₹69): 22% revenue – strong in Tier 2  
-  - Premium (₹129): 19% revenue – dominant in Tier 1  
-
-- **Revenue Surge:**  
-  - ₹2.43L (Jan) → ₹14.43L (Nov)  
-  - ~6x growth in 11 months  
-
-- **High-Growth Period:**  
-  - **May:** ₹4.63L — revenue inflection point  
-  - **Sep:** ₹8.98L — festive boost + regional hits  
-  - **Oct:** ₹10.85L — Diwali-driven surge  
-  - **Nov:** ₹14.43L — peak post-Diwali engagement  
-
-- **Insight:** Aug–Nov saw rapid monetization of free users and content popularity spikes  
+- **Demographics**: 45% aged 25–34 – metro-focused  
+- **Geography**: 57% Tier 1 users – digitally mature audience  
+- **Content Drivers**: Sports, global content  
+- **Top Genres**: Action, Drama, Thriller  
+- **User Base**:  
+  - Slow growth (3.93K → 4.26K)  
+  - 85% active users  
+  - High watch-time (117 hrs/user)  
+  - Sticky user base with niche and loyal audience  
 
 ---
+
+### 💰 Revenue Trend Insights: LioCinema
+
+- **Plan Breakdown**:  
+  - Basic (₹69): 22% revenue share – strong in Tier 2  
+  - Premium (₹129): 19% – mainly Tier 1  
+- **Massive Growth**: ₹2.43L (Jan) → ₹14.43L (Nov) – ~6x increase in 11 months  
+- **Key Revenue Spikes**:  
+  - May: ₹4.63L – revenue picks up sharply  
+  - Sep: ₹8.98L – festive season & regional blockbusters  
+  - Oct: ₹10.85L – Diwali-driven consumption  
+  - Nov: ₹14.43L – peak post-Diwali engagement  
+- **Trend**: Aug–Nov marks a high-growth zone, indicating successful monetization of free users and regional content hits  
+
+---
+
+### 💰 Revenue Trend Insights: Jotstar
+
+- **Premium-Led Plans**:  
+  - 61% on ₹359 Premium  
+  - 39% on ₹159 VIP  
+- **Steady Growth**: ₹6.79L (Jan) → ₹7.56L (Nov) – ~11% overall rise  
+- **Dips**:  
+  - Feb: ₹6.78L  
+  - Aug: ₹7.09L – likely post-festive burnout/off-season  
+- **Peaks**:  
+  - May: ₹7.21L – IPL  
+  - Jul: ₹7.28L – seasonal boost  
+  - Sep: ₹7.40L – Independence Day viewership  
+  - Nov: ₹7.56L – Diwali & holiday bingeing  
+- **Trend**: Stable urban monetization with loyal paying users; fewer spikes suggest retention-based revenue
+
+---
+
+## 📈 Post-Merger Revenue Outlook & Strategic Forecast
+
+### Forecast Overview (Post-Merger)
+
+- **Expected Revenue:** ₹147.64L  
+- **Projected Users:** 2.28L *(Assumes no duplication due to distinct ID systems)*  
+- **Total Content Items:** 3.61K  
+- **Total Languages:** 10  
+- **Total Genres:** 12  
+
+ 
+
