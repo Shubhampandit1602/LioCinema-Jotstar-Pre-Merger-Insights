@@ -91,7 +91,13 @@ The project utilizes three core tables:
 - **Projected Users:** 2.28L *(Assumes no duplication due to distinct ID systems)*  
 - **Total Content Items:** 3.61K  
 - **Total Languages:** 10  
-- **Total Genres:** 12  
+- **Total Genres:** 12
+
+
+### 📊 Unified Subscription Plans – “LioJotstar”
+
+![Screenshot (63)](https://github.com/user-attachments/assets/a0bb8d56-09a3-46ec-a859-7ab66ce75d5e)
+
 
  
 
