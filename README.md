@@ -1,4 +1,4 @@
-# 📊 LioCinema & Jotstar: Pre-Merger Insights
+# 📊 LioCinema & Jotstar: Merger Insights
 **Mapping User Behavior, Monetization Trends & Market Positioning in India’s Evolving OTT Landscape**
 
 ---
